@@ -1,0 +1,6 @@
+*.pdb
+*.user
+.vs/
+bin/
+obj/
+bridge.log
